@@ -2,7 +2,7 @@
 
 > 微信公众号「迷途指针」文章（Landon's）
 >
-> 思路来源-Barron's（[巴伦周刊](https://www.zhihu.com/search?q=巴伦周刊&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra={"sourceType"%3A"article"%2C"sourceId"%3A"491353612"})）
+> 思路来源-Barron's（[巴伦周刊](https://www.barrons.com/)）
 
 
 
@@ -16,4 +16,4 @@
 
 ## Posts
 
-[Landon's #1](./posts/Landon’s #1.md)
+[Landon's #1](./posts/Landons-N1.md)
